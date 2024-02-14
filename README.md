@@ -1,1 +1,1 @@
-
+The goal of this project was to develop a laboratory prototype of a solar tracking system, which is able to enhance the performance of the photovoltaic modules in a solar energy system. The operating principle of the device is to keep the photovoltaic modules constantly aligned with the sunbeams, which maximizes the exposure of solar panels to the Suns radiation. As a result, more output power can be produced by solar panels. The work of the project included hardware design and implementation, together with software programming for the Arduino UNO.
